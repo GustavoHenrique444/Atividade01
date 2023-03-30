@@ -11,20 +11,35 @@ Tipos de dados do java
 7- float
 8- double 
 9- Null 
-10- Undefined
-11- 
-
-
-
-
-
+10- Number
+11- Bigint 
+12- String
+13- Symbol
+  
 Para que servem ?
 
 Byte- Armazena valores de 0 a 255.
+
 short- Contém inteiros de 16 bits, que variam de -32.768 a 32.767, e também pode ser usado para economizar memória.
+
 int- Um tipo de dado inteiro primario do SQL Server. 
+
 Long- Contém inteiros de 64 bits, que variam de 9.223.372.036.854.775.808 a 9.223.372.036.854.775.807. 
+
 Boolean- Representa uma entidade lógica que podem ter dois valores: true (verdadeiro) e false (falso).
+
 Char- tipos de dados de caractere que sejam de tamanho fixo.
+
 Float- O tipo de dado float serve para para guardar números de pontos flutuante.
+
 Double- fornece as maiores e menores magnitudes possíveis para um número.
+
+Null- o null é usado quando uma informação a ser cadastrada é desconhecida ou não aplicável.
+
+Number- Representa um número que pode variar de 1 a 38 posições e a escala entre -84 a 127 posições, para valores inteiros o valor deve ser 0.
+
+Bigint- É um tipo de dado múmerico que representa números interiros no formato de precisão arbitaria.  
+
+String- É uma cadeia de caracteres alfonuméricos (Letras, Números e caracteres especiais). 
+
+Symbol- 
