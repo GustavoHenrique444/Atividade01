@@ -1,7 +1,7 @@
 # Atividade01
 Atividade sobre os tipos de dados do java 
 Tipos de dados do java 
-
+```
 1- Byte
 2- short 
 3- Int
@@ -15,7 +15,7 @@ Tipos de dados do java
 11- Bigint 
 12- String
 13- Symbol
-  
+```
 Para que servem ?
 
 Byte- Armazena valores de 0 a 255.
@@ -42,4 +42,8 @@ Bigint- É um tipo de dado múmerico que representa números interiros no format
 
 String- É uma cadeia de caracteres alfonuméricos (Letras, Números e caracteres especiais). 
 
-Symbol- 
+Symbol- Serve de identificador único 
+
+Exemplos do dados 
+
+Byte - 
