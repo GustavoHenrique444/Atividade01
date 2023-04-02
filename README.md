@@ -46,7 +46,7 @@ String- É uma cadeia de caracteres alfonuméricos (Letras, Números e caractere
 Symbol- Serve de identificador único 
 ```
 _Exemplos do dados_
-
+```
 Byte- byte a = 10,byte b = -20
 
 Short- short s = 10000, short r = -5000
@@ -67,3 +67,12 @@ Null- 'A' || null = null e null || null = null.
 
 Number- 
 
+Bigint-
+
+String-
+
+Symbol- 
+```
+_Sintaxe dos dados_
+``` 
+Byte
