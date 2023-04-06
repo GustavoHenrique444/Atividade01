@@ -129,7 +129,9 @@ ListView - Apresente uma lista rolável verticalmente que consiste em diversas e
 
 CheckBox - Uma caixa de seleção é um tipo específico de botão de dois estados que pode ser marcado ou desmarcado.
 
-RadioButton - 
+RadioButton - O RadioButton no Android Studio é um botão circular que permite ao usuário selecionar uma opção de uma lista de opções mutuamente exclusivas.
+
+
 
 
 
