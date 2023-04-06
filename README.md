@@ -119,6 +119,11 @@ symbol - const meuSymbol = Symbol("meu simbolo");
 
 _Elementos do Android Studio_
 ```
+TextView - A principal utilidade do TextView é exibir o texto na tela de um aplicativo Android. Embora isso possa parecer uma tarefa simples, a classe TextView contém uma lógica complexa que lhe permite exibir um texto formatado, hyperlinks, números de telefone, e-mails e outras funcionalidades úteis.
+
+Button - Um "button" consiste em um texto ou ícone que comunica alguma ação quando o .
+
+EditText - 
 
 
 
