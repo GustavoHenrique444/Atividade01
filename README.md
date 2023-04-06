@@ -117,7 +117,7 @@ string - String minhaString = "Olá, mundo!";
 symbol - const meuSymbol = Symbol("meu simbolo");
 ```
 
-Elementos do Android Studio
+_Elementos do Android Studio_
 ```
 
 
