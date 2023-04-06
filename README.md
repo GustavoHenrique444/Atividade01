@@ -115,6 +115,10 @@ BigInteger meuBigInt = new BigInteger("123456789012345678901234567890");
 string - String minhaString = "Olá, mundo!";
 
 symbol - const meuSymbol = Symbol("meu simbolo");
+```
+
+Elementos do Android Studio
+```
 
 
 
