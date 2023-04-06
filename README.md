@@ -121,9 +121,15 @@ _Elementos do Android Studio_
 ```
 TextView - A principal utilidade do TextView é exibir o texto na tela de um aplicativo Android. Embora isso possa parecer uma tarefa simples, a classe TextView contém uma lógica complexa que lhe permite exibir um texto formatado, hyperlinks, números de telefone, e-mails e outras funcionalidades úteis.
 
-Button - Um "button" consiste em um texto ou ícone que comunica alguma ação quando o .
+Button - Um "button" consiste em um texto ou ícone que comunica alguma ação quando o usuário clica nele.
 
-EditText - 
+EditText - O EditText é uma extensão da TextView e permite aos usuários editar/entrar o texto através de uma entrada do teclado.
+
+ListView - Apresente uma lista rolável verticalmente que consiste em diversas exibições, cada uma delas posicionada diretamente abaixo da exibição anterior. Para uma maneira mais atualizada, versátil e eficiente de apresentar listas.
+
+CheckBox - Uma caixa de seleção é um tipo específico de botão de dois estados que pode ser marcado ou desmarcado.
+
+RadioButton - 
 
 
 
